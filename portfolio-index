@@ -1,0 +1,32 @@
+# AI in Healthcare & Machine Learning — Project Portfolio
+
+A chronological set of hands-on projects completed during a 6-week AI in Healthcare & Drug Discovery bootcamp (BiotechTrek), building from core Python through supervised/unsupervised ML, genomics, cheminformatics, and medical imaging. Built on a BSc Medical Laboratory Science background, as part of preparation for PhD study in Biomedical Informatics.
+
+## Projects, in order completed
+
+| # | Project | Focus | Repo |
+|---|---|---|---|
+| 01 | **Python Fundamentals for AI Programming** | Foundations | `01-python-fundamentals` |
+| 02 | **Python + Colab for Healthcare Data Exploration** | Foundations | `02-python-for-healthcare-eda` |
+| 03 | **First ML Model: Logistic Regression on Breast Cancer Diagnosis** | Foundations | `03-first-ml-classifier-breast-cancer` |
+| 04 | **Healthcare Data Landscape: EHR, Medical Imaging, and Genomics** | Healthcare Data | `04-healthcare-data-types-ehr-imaging-genomics` |
+| 05 | **EHR Data Cleaning and Preprocessing** | Healthcare Data | `05-ehr-data-cleaning-preprocessing` |
+| 06 | **Genomics Data Basics: Pulling Real Data from NCBI** | Healthcare Data & Genomics | `06-genomics-data-basics-ncbi` |
+| 07 | **Molecular Data Basics: SMILES and Cheminformatics** | AI in Drug Discovery | `07-molecular-data-smiles-basics` |
+| 08 | **AI for Drug Screening: Molecular Fingerprints and Virtual Screening** | AI in Drug Discovery | `08-ai-drug-screening-virtual-screening` |
+| 09 | **From Genomic Data to Machine Learning: BRCA1 and Promoter Classification** | AI in Drug Discovery / Genomics | `09-genomic-data-to-ml-brca1-promoters` |
+| 10 | **Gene Expression ML Pipeline: Real NCBI GEO Data** | Genomics & ML | `10-gene-expression-ml-pipeline-geo` |
+| 11 | **Supervised Machine Learning on General-Purpose Data** | Types of ML Models | `11-supervised-ml-general-iris-regression` |
+| 12 | **Unsupervised Machine Learning for Beginners: PCA and Clustering on Iris** | Types of ML Models | `12-unsupervised-ml-intro-iris-pca-kmeans` |
+| 13 | **Unsupervised ML on General-Purpose Data: Comparing Clustering Algorithms** | Types of ML Models | `13-unsupervised-ml-general-cluster-comparison` |
+| 14 | **Supervised Machine Learning on Healthcare Data** | Types of ML Models | `14-supervised-ml-healthcare-breast-cancer-diabetes` |
+| 15 | **Unsupervised Machine Learning on Healthcare Data** | Types of ML Models | `15-unsupervised-ml-healthcare-breast-cancer` |
+| 16 | **Model Optimization: Overfitting, Cross-Validation, Grid Search, and Ensembles** | Model Optimization | `16-model-optimization-cv-grid-search-ensembles` |
+| 17 | **Medical Imaging AI: Pneumonia Classifier from a Chest X-ray Dataset** | Medical Imaging Applications | `17-medical-imaging-cnn-pneumonia-classifier` |
+| 18 | **Medical Imaging AI: From a Raw DICOM File to a Trained Model** | Medical Imaging Applications | `18-medical-imaging-dicom-ct-preprocessing` |
+
+## How this portfolio is organized
+Each project above lives in its own folder here for review, and is meant to become its own standalone GitHub repository (see `GIT_SETUP.md` in this same package for the exact commands). Numbering reflects the order the material was actually covered, from Python fundamentals through model optimization and medical imaging.
+
+## A note on chart rendering
+GitHub renders a Jupyter notebook's saved cell outputs directly, including matplotlib/seaborn charts, as long as the notebook was **run before being committed** (outputs embedded in the `.ipynb` JSON). All 18 notebooks above now have their outputs saved and are ready to push as-is.
