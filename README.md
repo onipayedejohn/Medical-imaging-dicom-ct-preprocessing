@@ -30,4 +30,4 @@ The imaging-preprocessing depth (Hounsfield Units, windowing) that separates a t
 - `notebook.ipynb` — the full, run notebook (cell outputs, including charts, are saved inline and render directly on GitHub)
 
 ---
-Part of a chronological AI-in-healthcare / ML portfolio built during a hands-on bootcamp. See the [portfolio index](https://github.com/YOUR-USERNAME/portfolio-index) for the full sequence.
+Part of a chronological AI-in-healthcare / ML portfolio built during a hands-on bootcamp. See the [portfolio index](https://github.com/onipayedejohn/portfolio-index) for the full sequence.
